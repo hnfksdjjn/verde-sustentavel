@@ -2,7 +2,7 @@
 
 **Compreendendo o Projeto:**
 
-Analisando o código fornecido, podemos identificar que o projeto "Verde Sustentável" é um site web interativo que busca promover práticas sustentáveis. Ele possui as seguintes características:
+"Verde Sustentável" é um site web interativo que busca promover práticas sustentáveis. Ele possui as seguintes características:
 
 * **Interface intuitiva:** O usuário pode realizar pesquisas por termos relacionados à sustentabilidade.
 * **Conteúdo informativo:** O site oferece dicas, artigos e links para aprofundar o conhecimento sobre temas ecológicos.
